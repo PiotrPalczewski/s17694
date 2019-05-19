@@ -1,0 +1,30 @@
+Adding new movie:
+
+{
+"title": "MyFirstMovie"
+}
+
+Adding comment to movie:
+
+{
+"content": "Good movie 2/10"
+}
+
+Adding raiting:
+
+{
+"rating":2
+}
+
+Adding actor:
+
+{
+"name":"Peter",
+"surname":"Parker"
+}
+
+Creating relation between movie and actor:
+
+{
+"id" : 1
+}
